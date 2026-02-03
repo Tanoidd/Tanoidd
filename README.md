@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="left">hey there 👋.........I am Tanay Roy</h1>
+<h1 align="left">Hey there 👋.........I am Tanay Roy</h1>
 
 ###
 
