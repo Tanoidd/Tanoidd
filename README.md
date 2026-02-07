@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="233" src="Screenshot 2025-07-21 012107.png" />
+  <img height="233" src="Tanay_Roy_Unity_Dev.png" />
 </div>
 
 
